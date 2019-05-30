@@ -1,6 +1,6 @@
 # WebPageTets API
 
-Esta es una aplicación realizada con Node.js, a la cual pasandole la URL, un directorio y un email
+Esta es una aplicación realizada con Nodejs, a la cual pasandole la URL, un directorio y un email
 de tu web hará 2 test (en distintos dispositivos) para determinar la velocidad de conexión, cache y
 otros muchos más datos útiles para optimizar tu web, guardará el test localmente y te mandara un email
 notificándote la finalización de tu test y resultados de estos(sumario).
@@ -73,6 +73,7 @@ Los test están predefinidos para correr:
 
 * Versión de Escritorio (Chrome), con conexión 4G.
 * Moto G (4gen) - (Chrome), con conexión 4G.
+* iPhone6 (4gen) - (Safari/Chrome), con conexión 4G.
 
 Más información de los dispositivos disponibles desde la API: https://www.webpagetest.org/getLocations.php?k=A&f=html
 
