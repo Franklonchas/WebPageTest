@@ -1,0 +1,27 @@
+{
+  "name": "webpagetest",
+  "version": "1.0.0",
+  "description": "Test web and analyze speed and analitycs",
+  "main": "app.js",
+  "dependencies": {
+    "download": "^7.1.0",
+    "download-file": "^0.1.5",
+    "keycdn": "^0.2.2",
+    "webpagetest": "^0.3.9",
+    "lighthouse": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franklonchas/WebPageTest.git"
+  },
+  "author": "Franklonchas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Franklonchas/WebPageTest/issues"
+  },
+  "homepage": "https://github.com/Franklonchas/WebPageTest#readme"
+}
